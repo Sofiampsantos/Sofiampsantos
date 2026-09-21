@@ -67,16 +67,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Sofiampsantos&theme=algolia&no-frame=true&margin-w=10&column=7" />
 </div>
 
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sofiampsantos/Sofiampsantos/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   <sub>✨ Feito com dedicação por Sofia Santos ✨</sub>

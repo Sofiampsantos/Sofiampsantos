@@ -14,9 +14,7 @@
 
 - 🎓 Estudante do curso profissional de Informática, 12º ano
 - 💻 A aprender e a praticar **JavaScript, HTML, CSS e C**
-- 🌱 Em constante evolução, projeto a projeto
-- 🎨 Apaixonada por design em tons de **lilás e roxo**
-
+  
 <br>
 
 ## 🛠️ Tecnologias
@@ -39,7 +37,7 @@
 -->
 
 <div align="center">
-  <i>🔧 Em breve — os primeiros projetos estão a caminho!</i>
+  <i>🔧Sem projetos</i>
 </div>
 
 <br>

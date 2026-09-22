@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sofia%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%2012%C2%BA%20ano%20%7C%20Curso%20Profissional&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Sofiampsantos">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Sofia+%F0%9F%92%9C;Estudante+de+Inform%C3%A1tica;A+aprender+JavaScript%2C+HTML%2C+CSS+e+C;Sempre+a+construir+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=%F0%9F%92%9C;
+    Estudante+de+Inform%C3%A1tica;A+aprender+JavaScript%2C+HTML%2C+CSS+e+C;Sempre+a+construir+algo+novo" alt="Typing SVG" />
 </a>
 
 </div>

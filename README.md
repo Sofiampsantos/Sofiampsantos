@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sofiampsantos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiampsantos&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
+  <img height="165" src="https://github-readme-stats-rust-pi-84.vercel.app/api?username=Sofiampsantos&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" />
+  <img height="165" src="https://github-readme-stats-rust-pi-84.vercel.app/api/top-langs/?username=Sofiampsantos&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" />
 </div>
 
 <div align="center">
